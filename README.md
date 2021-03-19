@@ -34,7 +34,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## Live Version
-(https://hopeful-goldwasser-d7ef67.netlify.app/)
+(https://admiring-morse-523921.netlify.app/)
 
 
 ## Technologies Used
