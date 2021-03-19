@@ -34,7 +34,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## Live Version
-
+(https://hopeful-goldwasser-d7ef67.netlify.app/)
 
 
 ## Technologies Used
@@ -47,6 +47,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Contributors
 
-👤 **Tadeu A Sarro**
+👤 **Karthick**
 
 - [Portfolio](https://karthykarthick.netlify.app/)
