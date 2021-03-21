@@ -34,7 +34,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## Live Version
-(https://admiring-morse-523921.netlify.app/)
+(https://inspiring-euclid-f85699.netlify.app/)
 
 
 ## Technologies Used
