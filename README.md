@@ -34,7 +34,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## Live Version
-(https://inspiring-euclid-f85699.netlify.app/)
+(https://laughing-archimedes-fb5dc6.netlify.app/)
 
 
 ## Technologies Used
