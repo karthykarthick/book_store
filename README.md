@@ -1,6 +1,11 @@
 # React Bookstore
 Front-End for an application that helps organize and manage a bookstore
 
+
+## Screenshot
+![screenshot](public/img.png)
+
+
 ## Running the project
 
 To get a local copy use this command on your terminal:
@@ -34,7 +39,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 
 ## Live Version
-(https://laughing-archimedes-fb5dc6.netlify.app/)
+(https://stupefied-banach-abce5b.netlify.app/)
 
 
 ## Technologies Used
