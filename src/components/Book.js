@@ -26,7 +26,7 @@ const Book = props => {
           <div className="progress-circle" />
           <div className="d-flex flex-column a-items-center j-c-center">
             <p className="progress-percentage margin-0">
-              0%
+              70%
             </p>
             <p className="progress-text font-montserrat">
               Completed
